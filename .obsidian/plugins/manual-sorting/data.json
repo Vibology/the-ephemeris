@@ -1,0 +1,1139 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Core Foundations of Vibology",
+        "Correspondences",
+        "The Instruments",
+        "Fonts",
+        "Welcome to the Vibology Library.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Core Foundations of Vibology": {
+      "children": [
+        "Core Foundations of Vibology/Five-Instrument Navigation.md",
+        "Core Foundations of Vibology/Hermeticism.md",
+        "Core Foundations of Vibology/Neoplatonism.md",
+        "Core Foundations of Vibology/Anima et Algorithm.md",
+        "Core Foundations of Vibology/Core Foundations of Vibology.md",
+        "Core Foundations of Vibology/Inner Authority and Strategy.md",
+        "Core Foundations of Vibology/Logos.md",
+        "Core Foundations of Vibology/Techgnosis.md",
+        "Core Foundations of Vibology/The Blueprint - 444 Architecture.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Correspondences": {
+      "children": [
+        "Correspondences/Cross-System Correspondence - Personal Mythos Integration.md",
+        "Correspondences/Cross-System Correspondence - Tarot, Astrology, Human Design.md",
+        "Correspondences/Master Correspondence Index.md",
+        "Correspondences/The 64-Fold Mandala - Complete Correspondence.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Fonts": {
+      "children": [
+        "Fonts/NotoSansSymbols[wght].ttf",
+        "Fonts/Symbola.ttf"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments": {
+      "children": [
+        "The Instruments/Astrology",
+        "The Instruments/Human Design",
+        "The Instruments/Personal Mythos",
+        "The Instruments/The Astrolabe",
+        "The Instruments/The Tarot"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Astrology": {
+      "children": [
+        "The Instruments/Astrology/Houses",
+        "The Instruments/Astrology/Planets",
+        "The Instruments/Astrology/Signs",
+        "The Instruments/Astrology/Annual Profections.md",
+        "The Instruments/Astrology/Aspects.md",
+        "The Instruments/Astrology/Astrology.md",
+        "The Instruments/Astrology/Essential Dignities.md",
+        "The Instruments/Astrology/Firdaria.md",
+        "The Instruments/Astrology/Houses.md",
+        "The Instruments/Astrology/Lots.md",
+        "The Instruments/Astrology/Lunar Nodes.md",
+        "The Instruments/Astrology/Natal Chart.md",
+        "The Instruments/Astrology/Planetary Condition.md",
+        "The Instruments/Astrology/Planetary Phases and Retrograde.md",
+        "The Instruments/Astrology/Planets.md",
+        "The Instruments/Astrology/Primary Directions.md",
+        "The Instruments/Astrology/Reception.md",
+        "The Instruments/Astrology/Signs.md",
+        "The Instruments/Astrology/Terms and Bounds.md",
+        "The Instruments/Astrology/Traditional Decans.md",
+        "The Instruments/Astrology/Transits and Timing.md",
+        "The Instruments/Astrology/Triplicity Rulers.md",
+        "The Instruments/Astrology/Zodiacal Releasing.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Astrology/Houses": {
+      "children": [
+        "The Instruments/Astrology/Houses/1st House.md",
+        "The Instruments/Astrology/Houses/2nd House.md",
+        "The Instruments/Astrology/Houses/3rd House.md",
+        "The Instruments/Astrology/Houses/4th House.md",
+        "The Instruments/Astrology/Houses/5th House.md",
+        "The Instruments/Astrology/Houses/6th House.md",
+        "The Instruments/Astrology/Houses/7th House.md",
+        "The Instruments/Astrology/Houses/8th House.md",
+        "The Instruments/Astrology/Houses/9th House.md",
+        "The Instruments/Astrology/Houses/10th House.md",
+        "The Instruments/Astrology/Houses/11th House.md",
+        "The Instruments/Astrology/Houses/12th House.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Astrology/Planets": {
+      "children": [
+        "The Instruments/Astrology/Planets/Jupiter ♃.md",
+        "The Instruments/Astrology/Planets/Mars ♂.md",
+        "The Instruments/Astrology/Planets/Mercury ☿.md",
+        "The Instruments/Astrology/Planets/Moon ☽.md",
+        "The Instruments/Astrology/Planets/Neptune ♆.md",
+        "The Instruments/Astrology/Planets/Pluto ♇.md",
+        "The Instruments/Astrology/Planets/Saturn ♄.md",
+        "The Instruments/Astrology/Planets/Sun ☉.md",
+        "The Instruments/Astrology/Planets/Uranus ♅.md",
+        "The Instruments/Astrology/Planets/Venus ♀.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Astrology/Signs": {
+      "children": [
+        "The Instruments/Astrology/Signs/Aquarius ♒.md",
+        "The Instruments/Astrology/Signs/Aries ♈.md",
+        "The Instruments/Astrology/Signs/Cancer ♋.md",
+        "The Instruments/Astrology/Signs/Capricorn ♑.md",
+        "The Instruments/Astrology/Signs/Gemini ♊.md",
+        "The Instruments/Astrology/Signs/Leo ♌.md",
+        "The Instruments/Astrology/Signs/Libra ♎.md",
+        "The Instruments/Astrology/Signs/Pisces ♓.md",
+        "The Instruments/Astrology/Signs/Sagittarius ♐.md",
+        "The Instruments/Astrology/Signs/Scorpio ♏.md",
+        "The Instruments/Astrology/Signs/Taurus ♉.md",
+        "The Instruments/Astrology/Signs/Virgo ♍.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Human Design": {
+      "children": [
+        "The Instruments/Human Design/Authority",
+        "The Instruments/Human Design/Centers",
+        "The Instruments/Human Design/Channels",
+        "The Instruments/Human Design/Gates",
+        "The Instruments/Human Design/Incarnation Crosses",
+        "The Instruments/Human Design/Profiles",
+        "The Instruments/Human Design/Strategy",
+        "The Instruments/Human Design/Types",
+        "The Instruments/Human Design/Variables",
+        "The Instruments/Human Design/Conditioning.md",
+        "The Instruments/Human Design/Deconditioning.md",
+        "The Instruments/Human Design/Definition.md",
+        "The Instruments/Human Design/Gene Keys and Human Design - The Contemplative Bridge.md",
+        "The Instruments/Human Design/Human Design.md",
+        "The Instruments/Human Design/The BodyGraph.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Human Design/Authority": {
+      "children": [
+        "The Instruments/Human Design/Authority/Authority.md",
+        "The Instruments/Human Design/Authority/Ego Authority.md",
+        "The Instruments/Human Design/Authority/Emotional Authority.md",
+        "The Instruments/Human Design/Authority/Mental Authority.md",
+        "The Instruments/Human Design/Authority/Sacral Authority.md",
+        "The Instruments/Human Design/Authority/Self-Projected Authority.md",
+        "The Instruments/Human Design/Authority/Splenic Authority.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Human Design/Centers": {
+      "children": [
+        "The Instruments/Human Design/Centers/Ajna.md",
+        "The Instruments/Human Design/Centers/Centers.md",
+        "The Instruments/Human Design/Centers/G Center.md",
+        "The Instruments/Human Design/Centers/Head.md",
+        "The Instruments/Human Design/Centers/Heart.md",
+        "The Instruments/Human Design/Centers/Root.md",
+        "The Instruments/Human Design/Centers/Sacral.md",
+        "The Instruments/Human Design/Centers/Solar Plexus.md",
+        "The Instruments/Human Design/Centers/Spleen.md",
+        "The Instruments/Human Design/Centers/Throat.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Human Design/Channels": {
+      "children": [
+        "The Instruments/Human Design/Channels/Channel 1-8 - Inspiration.md",
+        "The Instruments/Human Design/Channels/Channel 2-14 - The Beat.md",
+        "The Instruments/Human Design/Channels/Channel 3-60 - Mutation.md",
+        "The Instruments/Human Design/Channels/Channel 4-63 - Logic.md",
+        "The Instruments/Human Design/Channels/Channel 5-15 - Rhythm.md",
+        "The Instruments/Human Design/Channels/Channel 6-59 - Intimacy.md",
+        "The Instruments/Human Design/Channels/Channel 7-31 - The Alpha.md",
+        "The Instruments/Human Design/Channels/Channel 9-52 - Concentration.md",
+        "The Instruments/Human Design/Channels/Channel 10-20 - Awakening.md",
+        "The Instruments/Human Design/Channels/Channel 10-34 - Exploration.md",
+        "The Instruments/Human Design/Channels/Channel 10-57 - Survival.md",
+        "The Instruments/Human Design/Channels/Channel 11-56 - The Searcher.md",
+        "The Instruments/Human Design/Channels/Channel 12-22 - Openness.md",
+        "The Instruments/Human Design/Channels/Channel 13-33 - The Prodigal.md",
+        "The Instruments/Human Design/Channels/Channel 16-48 - Wavelength.md",
+        "The Instruments/Human Design/Channels/Channel 17-62 - Acceptance.md",
+        "The Instruments/Human Design/Channels/Channel 18-58 - Judgment.md",
+        "The Instruments/Human Design/Channels/Channel 19-49 - Synthesis.md",
+        "The Instruments/Human Design/Channels/Channel 20-34 - Charisma.md",
+        "The Instruments/Human Design/Channels/Channel 20-57 - The Brainwave.md",
+        "The Instruments/Human Design/Channels/Channel 21-45 - Money.md",
+        "The Instruments/Human Design/Channels/Channel 23-43 - Structuring.md",
+        "The Instruments/Human Design/Channels/Channel 24-61 - Awareness.md",
+        "The Instruments/Human Design/Channels/Channel 25-51 - Initiation.md",
+        "The Instruments/Human Design/Channels/Channel 26-44 - Surrender.md",
+        "The Instruments/Human Design/Channels/Channel 27-50 - Preservation.md",
+        "The Instruments/Human Design/Channels/Channel 28-38 - The Fighter.md",
+        "The Instruments/Human Design/Channels/Channel 29-46 - Discovery.md",
+        "The Instruments/Human Design/Channels/Channel 30-41 - Fantasy.md",
+        "The Instruments/Human Design/Channels/Channel 32-54 - Transformation.md",
+        "The Instruments/Human Design/Channels/Channel 34-57 - Power.md",
+        "The Instruments/Human Design/Channels/Channel 35-36 - Transitoriness.md",
+        "The Instruments/Human Design/Channels/Channel 37-40 - Community.md",
+        "The Instruments/Human Design/Channels/Channel 39-55 - Moodiness.md",
+        "The Instruments/Human Design/Channels/Channel 42-53 - Maturation.md",
+        "The Instruments/Human Design/Channels/Channel 47-64 - Abstraction.md",
+        "The Instruments/Human Design/Channels/Channels.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Human Design/Gates": {
+      "children": [
+        "The Instruments/Human Design/Gates/Gate 01 - The Creative.md",
+        "The Instruments/Human Design/Gates/Gate 02 - The Receptive.md",
+        "The Instruments/Human Design/Gates/Gate 03 - Difficulty at the Beginning.md",
+        "The Instruments/Human Design/Gates/Gate 04 - Youthful Folly.md",
+        "The Instruments/Human Design/Gates/Gate 05 - Waiting.md",
+        "The Instruments/Human Design/Gates/Gate 06 - Conflict.md",
+        "The Instruments/Human Design/Gates/Gate 07 - The Army.md",
+        "The Instruments/Human Design/Gates/Gate 08 - Holding Together.md",
+        "The Instruments/Human Design/Gates/Gate 09 - The Taming Power of the Small.md",
+        "The Instruments/Human Design/Gates/Gate 10 - Treading.md",
+        "The Instruments/Human Design/Gates/Gate 11 - Peace.md",
+        "The Instruments/Human Design/Gates/Gate 12 - Standstill.md",
+        "The Instruments/Human Design/Gates/Gate 13 - The Fellowship of Man.md",
+        "The Instruments/Human Design/Gates/Gate 14 - Possession in Great Measure.md",
+        "The Instruments/Human Design/Gates/Gate 15 - Modesty.md",
+        "The Instruments/Human Design/Gates/Gate 16 - Enthusiasm.md",
+        "The Instruments/Human Design/Gates/Gate 17 - Following.md",
+        "The Instruments/Human Design/Gates/Gate 18 - Work on What Has Been Spoilt.md",
+        "The Instruments/Human Design/Gates/Gate 19 - Approach.md",
+        "The Instruments/Human Design/Gates/Gate 20 - Contemplation.md",
+        "The Instruments/Human Design/Gates/Gate 21 - Biting Through.md",
+        "The Instruments/Human Design/Gates/Gate 22 - Grace.md",
+        "The Instruments/Human Design/Gates/Gate 23 - Splitting Apart.md",
+        "The Instruments/Human Design/Gates/Gate 24 - The Return.md",
+        "The Instruments/Human Design/Gates/Gate 25 - Innocence.md",
+        "The Instruments/Human Design/Gates/Gate 26 - The Taming Power of the Great.md",
+        "The Instruments/Human Design/Gates/Gate 27 - Nourishment.md",
+        "The Instruments/Human Design/Gates/Gate 28 - Preponderance of the Great.md",
+        "The Instruments/Human Design/Gates/Gate 29 - The Abysmal.md",
+        "The Instruments/Human Design/Gates/Gate 30 - The Clinging Fire.md",
+        "The Instruments/Human Design/Gates/Gate 31 - Influence.md",
+        "The Instruments/Human Design/Gates/Gate 32 - Duration.md",
+        "The Instruments/Human Design/Gates/Gate 33 - Retreat.md",
+        "The Instruments/Human Design/Gates/Gate 34 - The Power of the Great.md",
+        "The Instruments/Human Design/Gates/Gate 35 - Progress.md",
+        "The Instruments/Human Design/Gates/Gate 36 - Darkening of the Light.md",
+        "The Instruments/Human Design/Gates/Gate 37 - The Family.md",
+        "The Instruments/Human Design/Gates/Gate 38 - Opposition.md",
+        "The Instruments/Human Design/Gates/Gate 39 - Obstruction.md",
+        "The Instruments/Human Design/Gates/Gate 40 - Deliverance.md",
+        "The Instruments/Human Design/Gates/Gate 41 - Decrease.md",
+        "The Instruments/Human Design/Gates/Gate 42 - Increase.md",
+        "The Instruments/Human Design/Gates/Gate 43 - Breakthrough.md",
+        "The Instruments/Human Design/Gates/Gate 44 - Coming to Meet.md",
+        "The Instruments/Human Design/Gates/Gate 45 - Gathering Together.md",
+        "The Instruments/Human Design/Gates/Gate 46 - Pushing Upward.md",
+        "The Instruments/Human Design/Gates/Gate 47 - Oppression.md",
+        "The Instruments/Human Design/Gates/Gate 48 - The Well.md",
+        "The Instruments/Human Design/Gates/Gate 49 - Revolution.md",
+        "The Instruments/Human Design/Gates/Gate 50 - The Cauldron.md",
+        "The Instruments/Human Design/Gates/Gate 51 - The Arousing.md",
+        "The Instruments/Human Design/Gates/Gate 52 - Keeping Still.md",
+        "The Instruments/Human Design/Gates/Gate 53 - Development.md",
+        "The Instruments/Human Design/Gates/Gate 54 - The Marrying Maiden.md",
+        "The Instruments/Human Design/Gates/Gate 55 - Abundance.md",
+        "The Instruments/Human Design/Gates/Gate 56 - The Wanderer.md",
+        "The Instruments/Human Design/Gates/Gate 57 - The Gentle.md",
+        "The Instruments/Human Design/Gates/Gate 58 - The Joyous.md",
+        "The Instruments/Human Design/Gates/Gate 59 - Dispersion.md",
+        "The Instruments/Human Design/Gates/Gate 60 - Limitation.md",
+        "The Instruments/Human Design/Gates/Gate 61 - Inner Truth.md",
+        "The Instruments/Human Design/Gates/Gate 62 - Preponderance of the Small.md",
+        "The Instruments/Human Design/Gates/Gate 63 - After Completion.md",
+        "The Instruments/Human Design/Gates/Gate 64 - Before Completion.md",
+        "The Instruments/Human Design/Gates/Gates.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Human Design/Incarnation Crosses": {
+      "children": [
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross",
+        "The Instruments/Human Design/Incarnation Crosses/Incarnation Crosses.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross": {
+      "children": [
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Alertness.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Ambition.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Articulation.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Assimilation.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Bargains.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Beginnings.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Behavior.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Caring.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Commitment.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Completion.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Conflict.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Confusion.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Conservation.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Contribution.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Control.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Correction.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Crisis.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Denial.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Depth.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Detail.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Doubts.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Empowering.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Experience.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Experimentation.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Extremes.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Fantasy.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Fates.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Focus.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Formulization.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Grace.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Habits.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Ideas.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Influence.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Innocence.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Insight.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Interaction.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Intuition.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Limitation.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Listening.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Moods.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Mutation.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Need.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Opinions.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Opposition.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Oppression.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Possession.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Power.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Principles.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Provocation.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Rationalization.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Retreat.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Risks.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Self Expression.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Serendipity.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Shock.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Stillness.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Stimulation.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Strategy.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of the Driver.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of the Now.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of the Trickster.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Thinking.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Values.md",
+        "The Instruments/Human Design/Incarnation Crosses/Juxtaposition Cross/JAX of Vitality.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross": {
+      "children": [
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Alignment 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Alignment 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Confrontation 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Confrontation 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Cycles 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Cycles 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Dedication 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Dedication 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Defiance 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Defiance 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Demands 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Demands 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Distraction 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Distraction 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Dominion 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Dominion 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Duality 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Duality 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Education 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Education 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Endeavor 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Endeavor 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Healing 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Healing 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Identification 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Identification 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Incarnation 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Incarnation 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Individualism 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Individualism 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Industry 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Industry 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Informing 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Informing 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Limitation 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Limitation 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Masks 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Masks 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Migration 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Migration 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Obscuration 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Obscuration 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Prevention 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Prevention 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Refinement 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Refinement 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Revolution 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Revolution 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Separation 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Separation 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Spirit 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Spirit 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of the Alpha 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of the Alpha 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of the Clarion 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of the Clarion 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of the Plane 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of the Plane 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Uncertainty 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Uncertainty 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Upheaval 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Upheaval 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Wishes 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Left Angle Cross/LAX of Wishes 2.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross": {
+      "children": [
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Consciousness 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Consciousness 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Consciousness 3.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Consciousness 4.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Contagion 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Contagion 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Contagion 3.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Contagion 4.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Eden 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Eden 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Eden 3.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Eden 4.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Explanation 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Explanation 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Explanation 3.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Explanation 4.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Laws 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Laws 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Laws 3.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Laws 4.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Penetration 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Penetration 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Penetration 3.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Penetration 4.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Planning 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Planning 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Planning 3.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Planning 4.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Rulership 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Rulership 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Rulership 3.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Rulership 4.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Service 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Service 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Service 3.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Service 4.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Tension 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Tension 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Tension 3.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of Tension 4.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Four Ways 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Four Ways 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Four Ways 3.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Four Ways 4.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Maya 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Maya 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Maya 3.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Maya 4.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Sleeping Phoenix 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Sleeping Phoenix 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Sleeping Phoenix 3.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Sleeping Phoenix 4.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Sphinx 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Sphinx 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Sphinx 3.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Sphinx 4.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Unexpected 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Unexpected 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Unexpected 3.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Unexpected 4.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Vessel of Love 1.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Vessel of Love 2.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Vessel of Love 3.md",
+        "The Instruments/Human Design/Incarnation Crosses/Right Angle Cross/RAX of the Vessel of Love 4.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Human Design/Profiles": {
+      "children": [
+        "The Instruments/Human Design/Profiles/1-3 Investigator Martyr.md",
+        "The Instruments/Human Design/Profiles/1-4 Investigator Opportunist.md",
+        "The Instruments/Human Design/Profiles/2-4 Hermit Opportunist.md",
+        "The Instruments/Human Design/Profiles/2-5 Hermit Heretic.md",
+        "The Instruments/Human Design/Profiles/3-5 Martyr Heretic.md",
+        "The Instruments/Human Design/Profiles/3-6 Martyr Role Model.md",
+        "The Instruments/Human Design/Profiles/4-1 Opportunist Investigator.md",
+        "The Instruments/Human Design/Profiles/4-6 Opportunist Role Model.md",
+        "The Instruments/Human Design/Profiles/5-1 Heretic Investigator.md",
+        "The Instruments/Human Design/Profiles/5-2 Heretic Hermit.md",
+        "The Instruments/Human Design/Profiles/6-2 Role Model Hermit.md",
+        "The Instruments/Human Design/Profiles/6-3 Role Model Martyr.md",
+        "The Instruments/Human Design/Profiles/Profiles.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Human Design/Strategy": {
+      "children": [
+        "The Instruments/Human Design/Strategy/Strategy.md",
+        "The Instruments/Human Design/Strategy/To Inform.md",
+        "The Instruments/Human Design/Strategy/To Respond.md",
+        "The Instruments/Human Design/Strategy/Wait a Lunar Cycle.md",
+        "The Instruments/Human Design/Strategy/Wait for the Invitation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Human Design/Types": {
+      "children": [
+        "The Instruments/Human Design/Types/Generator.md",
+        "The Instruments/Human Design/Types/Manifestor.md",
+        "The Instruments/Human Design/Types/Projector.md",
+        "The Instruments/Human Design/Types/Reflector.md",
+        "The Instruments/Human Design/Types/Types.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Human Design/Variables": {
+      "children": [
+        "The Instruments/Human Design/Variables/Determination.md",
+        "The Instruments/Human Design/Variables/Environment.md",
+        "The Instruments/Human Design/Variables/Motivation.md",
+        "The Instruments/Human Design/Variables/Perspective.md",
+        "The Instruments/Human Design/Variables/Primary Health System.md",
+        "The Instruments/Human Design/Variables/Tone - Color - Base.md",
+        "The Instruments/Human Design/Variables/Variables.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Personal Mythos": {
+      "children": [
+        "The Instruments/Personal Mythos/Alchemical Stages",
+        "The Instruments/Personal Mythos/Fairy Tales",
+        "The Instruments/Personal Mythos/Hero's Journey",
+        "The Instruments/Personal Mythos/Individuation Process",
+        "The Instruments/Personal Mythos/Jungian Archetypes",
+        "The Instruments/Personal Mythos/World Mythology",
+        "The Instruments/Personal Mythos/Active Imagination.md",
+        "The Instruments/Personal Mythos/Heart Chakra Meditation.md",
+        "The Instruments/Personal Mythos/Numinous Experience.md",
+        "The Instruments/Personal Mythos/Personal Mythos.md",
+        "The Instruments/Personal Mythos/The Hero's Journey.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Personal Mythos/Alchemical Stages": {
+      "children": [
+        "The Instruments/Personal Mythos/Alchemical Stages/Colors",
+        "The Instruments/Personal Mythos/Alchemical Stages/Operations",
+        "The Instruments/Personal Mythos/Alchemical Stages/Alchemical Stages.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Personal Mythos/Alchemical Stages/Colors": {
+      "children": [
+        "The Instruments/Personal Mythos/Alchemical Stages/Colors/Albedo.md",
+        "The Instruments/Personal Mythos/Alchemical Stages/Colors/Citrinitas.md",
+        "The Instruments/Personal Mythos/Alchemical Stages/Colors/Nigredo.md",
+        "The Instruments/Personal Mythos/Alchemical Stages/Colors/Rubedo.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Personal Mythos/Alchemical Stages/Operations": {
+      "children": [
+        "The Instruments/Personal Mythos/Alchemical Stages/Operations/Calcination.md",
+        "The Instruments/Personal Mythos/Alchemical Stages/Operations/Coagulation.md",
+        "The Instruments/Personal Mythos/Alchemical Stages/Operations/Conjunction.md",
+        "The Instruments/Personal Mythos/Alchemical Stages/Operations/Dissolution.md",
+        "The Instruments/Personal Mythos/Alchemical Stages/Operations/Distillation.md",
+        "The Instruments/Personal Mythos/Alchemical Stages/Operations/Fermentation.md",
+        "The Instruments/Personal Mythos/Alchemical Stages/Operations/Mortificatio.md",
+        "The Instruments/Personal Mythos/Alchemical Stages/Operations/Separation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Personal Mythos/Fairy Tales": {
+      "children": [
+        "The Instruments/Personal Mythos/Fairy Tales/Beauty and the Beast.md",
+        "The Instruments/Personal Mythos/Fairy Tales/Bluebeard.md",
+        "The Instruments/Personal Mythos/Fairy Tales/Cinderella.md",
+        "The Instruments/Personal Mythos/Fairy Tales/Death and Resurrection.md",
+        "The Instruments/Personal Mythos/Fairy Tales/Frog Prince.md",
+        "The Instruments/Personal Mythos/Fairy Tales/Hansel and Gretel.md",
+        "The Instruments/Personal Mythos/Fairy Tales/Rapunzel.md",
+        "The Instruments/Personal Mythos/Fairy Tales/Snow White.md",
+        "The Instruments/Personal Mythos/Fairy Tales/Spinning and Weaving.md",
+        "The Instruments/Personal Mythos/Fairy Tales/The Curse and the Spell.md",
+        "The Instruments/Personal Mythos/Fairy Tales/The Deep Forest.md",
+        "The Instruments/Personal Mythos/Fairy Tales/The Forbidden Chamber.md",
+        "The Instruments/Personal Mythos/Fairy Tales/The Magical Helper.md",
+        "The Instruments/Personal Mythos/Fairy Tales/The Number Seven.md",
+        "The Instruments/Personal Mythos/Fairy Tales/The Quest Object.md",
+        "The Instruments/Personal Mythos/Fairy Tales/The Three Trials.md",
+        "The Instruments/Personal Mythos/Fairy Tales/The Two Brothers.md",
+        "The Instruments/Personal Mythos/Fairy Tales/The Wicked Stepmother.md",
+        "The Instruments/Personal Mythos/Fairy Tales/The Youngest Child.md",
+        "The Instruments/Personal Mythos/Fairy Tales/Transformation and the Animal Bride-Groom.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Personal Mythos/Hero's Journey": {
+      "children": [
+        "The Instruments/Personal Mythos/Hero's Journey/Approach to the Inmost Cave.md",
+        "The Instruments/Personal Mythos/Hero's Journey/Crossing the First Threshold.md",
+        "The Instruments/Personal Mythos/Hero's Journey/Meeting the Mentor.md",
+        "The Instruments/Personal Mythos/Hero's Journey/Refusal of the Call.md",
+        "The Instruments/Personal Mythos/Hero's Journey/Return with the Elixir.md",
+        "The Instruments/Personal Mythos/Hero's Journey/Tests, Allies, and Enemies.md",
+        "The Instruments/Personal Mythos/Hero's Journey/The Call to Adventure.md",
+        "The Instruments/Personal Mythos/Hero's Journey/The Ordeal.md",
+        "The Instruments/Personal Mythos/Hero's Journey/The Ordinary World.md",
+        "The Instruments/Personal Mythos/Hero's Journey/The Resurrection.md",
+        "The Instruments/Personal Mythos/Hero's Journey/The Reward.md",
+        "The Instruments/Personal Mythos/Hero's Journey/The Road Back.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Personal Mythos/Individuation Process": {
+      "children": [
+        "The Instruments/Personal Mythos/Individuation Process/Confrontation with Shadow.md",
+        "The Instruments/Personal Mythos/Individuation Process/Confrontation with the Self.md",
+        "The Instruments/Personal Mythos/Individuation Process/Ego Formation and Childhood.md",
+        "The Instruments/Personal Mythos/Individuation Process/Encounter with Anima-Animus.md",
+        "The Instruments/Personal Mythos/Individuation Process/Individuation Process.md",
+        "The Instruments/Personal Mythos/Individuation Process/Integration and Wholeness.md",
+        "The Instruments/Personal Mythos/Individuation Process/Persona Development.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Personal Mythos/Jungian Archetypes": {
+      "children": [
+        "The Instruments/Personal Mythos/Jungian Archetypes/Coniunctio.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/Ego-Death.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/Enantiodromia.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/Humility.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/Imago Dei.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/Inflation.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/Jungian Archetypes.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/Mandala.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/Projection.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/Psychoid Archetype.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/Puer and Puella.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/Synchronicity.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Anima.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Animus.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Collective Unconscious.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Craftsman.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Divine Child.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Four Functions.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Great Mother.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Hero.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Inner Child.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Joker.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Persona.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Self.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Senex.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Shadow.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Shapeshifter.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Syzygy.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Threshold Guardian.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Transcendent Function.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/The Wise Old Man.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/Transference.md",
+        "The Instruments/Personal Mythos/Jungian Archetypes/Unus Mundus.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Personal Mythos/World Mythology": {
+      "children": [
+        "The Instruments/Personal Mythos/World Mythology/Egyptian Mythology",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology",
+        "The Instruments/Personal Mythos/World Mythology/Mesopotamian Mythology",
+        "The Instruments/Personal Mythos/World Mythology/African Diaspora Mythology.md",
+        "The Instruments/Personal Mythos/World Mythology/Buddhist Cosmology.md",
+        "The Instruments/Personal Mythos/World Mythology/Celtic Mythology.md",
+        "The Instruments/Personal Mythos/World Mythology/Hindu Mythology.md",
+        "The Instruments/Personal Mythos/World Mythology/Japanese Mythology.md",
+        "The Instruments/Personal Mythos/World Mythology/Native American Mythology.md",
+        "The Instruments/Personal Mythos/World Mythology/Norse Mythology.md",
+        "The Instruments/Personal Mythos/World Mythology/Slavic and Eastern European Mythology.md",
+        "The Instruments/Personal Mythos/World Mythology/Taoist Mythology.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Personal Mythos/World Mythology/Egyptian Mythology": {
+      "children": [
+        "The Instruments/Personal Mythos/World Mythology/Egyptian Mythology/Egyptian Mythology.md",
+        "The Instruments/Personal Mythos/World Mythology/Egyptian Mythology/Horus.md",
+        "The Instruments/Personal Mythos/World Mythology/Egyptian Mythology/Isis.md",
+        "The Instruments/Personal Mythos/World Mythology/Egyptian Mythology/Nephthys.md",
+        "The Instruments/Personal Mythos/World Mythology/Egyptian Mythology/Osiris.md",
+        "The Instruments/Personal Mythos/World Mythology/Egyptian Mythology/Ra.md",
+        "The Instruments/Personal Mythos/World Mythology/Egyptian Mythology/Set.md",
+        "The Instruments/Personal Mythos/World Mythology/Egyptian Mythology/Thoth.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Personal Mythos/World Mythology/Greek Mythology": {
+      "children": [
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Aphrodite.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Apollo.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Ares.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Artemis.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Athena.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Demeter.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Diana.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Eros.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Greek Mythology.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Hades.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Hecate.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Hera.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Hermes.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Hestia.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Persephone.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Poseidon.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Prometheus.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Sol.md",
+        "The Instruments/Personal Mythos/World Mythology/Greek Mythology/Zeus.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/Personal Mythos/World Mythology/Mesopotamian Mythology": {
+      "children": [
+        "The Instruments/Personal Mythos/World Mythology/Mesopotamian Mythology/Inanna.md",
+        "The Instruments/Personal Mythos/World Mythology/Mesopotamian Mythology/Lilith.md",
+        "The Instruments/Personal Mythos/World Mythology/Mesopotamian Mythology/Mesopotamian Mythology.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Astrolabe": {
+      "children": [
+        "The Instruments/The Astrolabe/The Athanor",
+        "The Instruments/The Astrolabe/The Codex",
+        "The Instruments/The Astrolabe/The Astrolabe.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Astrolabe/The Athanor": {
+      "children": [
+        "The Instruments/The Astrolabe/The Athanor/The Archetypes",
+        "The Instruments/The Astrolabe/The Athanor/The Furnace",
+        "The Instruments/The Astrolabe/The Athanor/The Materia"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Astrolabe/The Athanor/The Archetypes": {
+      "children": [
+        "The Instruments/The Astrolabe/The Athanor/The Archetypes/The Alchemist.md",
+        "The Instruments/The Astrolabe/The Athanor/The Archetypes/The Changeling.md",
+        "The Instruments/The Astrolabe/The Athanor/The Archetypes/The Divine Child.md",
+        "The Instruments/The Astrolabe/The Athanor/The Archetypes/The Great Mother.md",
+        "The Instruments/The Astrolabe/The Athanor/The Archetypes/The Hero.md",
+        "The Instruments/The Astrolabe/The Athanor/The Archetypes/The Idol.md",
+        "The Instruments/The Astrolabe/The Athanor/The Archetypes/The Joker.md",
+        "The Instruments/The Astrolabe/The Athanor/The Archetypes/The Muse.md",
+        "The Instruments/The Astrolabe/The Athanor/The Archetypes/The Nightmare.md",
+        "The Instruments/The Astrolabe/The Athanor/The Archetypes/The Persona.md",
+        "The Instruments/The Astrolabe/The Athanor/The Archetypes/The Shape.md",
+        "The Instruments/The Astrolabe/The Athanor/The Archetypes/The Wise Man.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Astrolabe/The Athanor/The Furnace": {
+      "children": [
+        "The Instruments/The Astrolabe/The Athanor/The Furnace/Calcination.md",
+        "The Instruments/The Astrolabe/The Athanor/The Furnace/Coagulation.md",
+        "The Instruments/The Astrolabe/The Athanor/The Furnace/Conjunction.md",
+        "The Instruments/The Astrolabe/The Athanor/The Furnace/Dissolution.md",
+        "The Instruments/The Astrolabe/The Athanor/The Furnace/Distillation.md",
+        "The Instruments/The Astrolabe/The Athanor/The Furnace/Fermentation.md",
+        "The Instruments/The Astrolabe/The Athanor/The Furnace/Separation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Astrolabe/The Athanor/The Materia": {
+      "children": [
+        "The Instruments/The Astrolabe/The Athanor/The Materia/Mercury.md",
+        "The Instruments/The Astrolabe/The Athanor/The Materia/Prima Materia.md",
+        "The Instruments/The Astrolabe/The Athanor/The Materia/Salt.md",
+        "The Instruments/The Astrolabe/The Athanor/The Materia/Sulphur.md",
+        "The Instruments/The Astrolabe/The Athanor/The Materia/The Philosopher's Stone.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Astrolabe/The Codex": {
+      "children": [
+        "The Instruments/The Astrolabe/The Codex/Family of Earth",
+        "The Instruments/The Astrolabe/The Codex/Family of Fire",
+        "The Instruments/The Astrolabe/The Codex/Family of Heaven",
+        "The Instruments/The Astrolabe/The Codex/Family of Lake",
+        "The Instruments/The Astrolabe/The Codex/Family of Mountain",
+        "The Instruments/The Astrolabe/The Codex/Family of Thunder",
+        "The Instruments/The Astrolabe/The Codex/Family of Water",
+        "The Instruments/The Astrolabe/The Codex/Family of Wind"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Astrolabe/The Codex/Family of Earth": {
+      "children": [
+        "The Instruments/The Astrolabe/The Codex/Family of Earth/02 - The Receptive.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Earth/08 - Holding Together.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Earth/12 - Standstill.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Earth/16 - Enthusiasm.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Earth/20 - Contemplation.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Earth/23 - Splitting Apart.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Earth/35 - Progress.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Earth/45 - Gathering Together.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Astrolabe/The Codex/Family of Fire": {
+      "children": [
+        "The Instruments/The Astrolabe/The Codex/Family of Fire/04 - Youthful Folly.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Fire/06 - Conflict.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Fire/13 - Fellowship.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Fire/30 - Clinging Fire.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Fire/50 - The Cauldron.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Fire/56 - The Wanderer.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Fire/59 - Dispersion.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Fire/64 - Before Completion.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Astrolabe/The Codex/Family of Heaven": {
+      "children": [
+        "The Instruments/The Astrolabe/The Codex/Family of Heaven/01 - The Creative.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Heaven/05 - Waiting.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Heaven/09 - Accretion.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Heaven/11 - Peace.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Heaven/14 - Bounty.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Heaven/26 - Amassing.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Heaven/34 - Might.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Heaven/43 - Breakthrough.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Astrolabe/The Codex/Family of Lake": {
+      "children": [
+        "The Instruments/The Astrolabe/The Codex/Family of Lake/15 - Modesty.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Lake/19 - Approach.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Lake/31 - Influence.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Lake/39 - Obstruction.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Lake/47 - Oppression.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Lake/54 - Marrying Maiden.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Lake/58 - The Joyous.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Lake/62 - Overstep.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Astrolabe/The Codex/Family of Mountain": {
+      "children": [
+        "The Instruments/The Astrolabe/The Codex/Family of Mountain/10 - Treading.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Mountain/22 - Grace.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Mountain/33 - Retreat.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Mountain/38 - Opposition.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Mountain/41 - Decrease.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Mountain/52 - Keeping Still.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Mountain/53 - Development.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Mountain/61 - Inner Truth.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Astrolabe/The Codex/Family of Thunder": {
+      "children": [
+        "The Instruments/The Astrolabe/The Codex/Family of Thunder/17 - Following.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Thunder/24 - The Return.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Thunder/28 - Overwhelm.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Thunder/32 - Duration.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Thunder/40 - Deliverance.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Thunder/46 - Pushing Upward.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Thunder/48 - The Well.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Thunder/51 - The Arousing.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Astrolabe/The Codex/Family of Water": {
+      "children": [
+        "The Instruments/The Astrolabe/The Codex/Family of Water/03 - Emergence.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Water/07 - The Army.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Water/29 - The Abysmal.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Water/36 - Wounded Light.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Water/49 - Revolution.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Water/55 - Abundance.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Water/60 - Limitation.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Water/63 - After Completion.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Astrolabe/The Codex/Family of Wind": {
+      "children": [
+        "The Instruments/The Astrolabe/The Codex/Family of Wind/18 - Remedy.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Wind/21 - Biting Through.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Wind/25 - Innocence.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Wind/27 - Nourishment.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Wind/37 - The Family.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Wind/42 - Increase.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Wind/44 - Encountering.md",
+        "The Instruments/The Astrolabe/The Codex/Family of Wind/57 - The Gentle.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Tarot": {
+      "children": [
+        "The Instruments/The Tarot/Major Arcana",
+        "The Instruments/The Tarot/Minor Arcana",
+        "The Instruments/The Tarot/Qabalah",
+        "The Instruments/The Tarot/Divination.md",
+        "The Instruments/The Tarot/Pathworking.md",
+        "The Instruments/The Tarot/The Fool's Journey.md",
+        "The Instruments/The Tarot/The Tarot.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Tarot/Major Arcana": {
+      "children": [
+        "The Instruments/The Tarot/Major Arcana/Death (XIII).md",
+        "The Instruments/The Tarot/Major Arcana/Judgement (XX).md",
+        "The Instruments/The Tarot/Major Arcana/Justice (XI).md",
+        "The Instruments/The Tarot/Major Arcana/Strength (VIII).md",
+        "The Instruments/The Tarot/Major Arcana/Temperance (XIV).md",
+        "The Instruments/The Tarot/Major Arcana/The Chariot (VII).md",
+        "The Instruments/The Tarot/Major Arcana/The Devil (XV).md",
+        "The Instruments/The Tarot/Major Arcana/The Emperor (IV).md",
+        "The Instruments/The Tarot/Major Arcana/The Empress (III).md",
+        "The Instruments/The Tarot/Major Arcana/The Fool (0).md",
+        "The Instruments/The Tarot/Major Arcana/The Hanged Man (XII).md",
+        "The Instruments/The Tarot/Major Arcana/The Hermit (IX).md",
+        "The Instruments/The Tarot/Major Arcana/The Hierophant (V).md",
+        "The Instruments/The Tarot/Major Arcana/The High Priestess (II).md",
+        "The Instruments/The Tarot/Major Arcana/The Lovers (VI).md",
+        "The Instruments/The Tarot/Major Arcana/The Magician (I).md",
+        "The Instruments/The Tarot/Major Arcana/The Moon (XVIII).md",
+        "The Instruments/The Tarot/Major Arcana/The Star (XVII).md",
+        "The Instruments/The Tarot/Major Arcana/The Sun (XIX).md",
+        "The Instruments/The Tarot/Major Arcana/The Tower (XVI).md",
+        "The Instruments/The Tarot/Major Arcana/The World (XXI).md",
+        "The Instruments/The Tarot/Major Arcana/Wheel of Fortune (X).md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Tarot/Minor Arcana": {
+      "children": [
+        "The Instruments/The Tarot/Minor Arcana/Cups",
+        "The Instruments/The Tarot/Minor Arcana/Pentacles",
+        "The Instruments/The Tarot/Minor Arcana/Swords",
+        "The Instruments/The Tarot/Minor Arcana/Wands"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Tarot/Minor Arcana/Cups": {
+      "children": [
+        "The Instruments/The Tarot/Minor Arcana/Cups/Ace of Cups.md",
+        "The Instruments/The Tarot/Minor Arcana/Cups/Eight of Cups.md",
+        "The Instruments/The Tarot/Minor Arcana/Cups/Five of Cups.md",
+        "The Instruments/The Tarot/Minor Arcana/Cups/Four of Cups.md",
+        "The Instruments/The Tarot/Minor Arcana/Cups/King of Cups.md",
+        "The Instruments/The Tarot/Minor Arcana/Cups/Knight of Cups.md",
+        "The Instruments/The Tarot/Minor Arcana/Cups/Nine of Cups.md",
+        "The Instruments/The Tarot/Minor Arcana/Cups/Page of Cups.md",
+        "The Instruments/The Tarot/Minor Arcana/Cups/Queen of Cups.md",
+        "The Instruments/The Tarot/Minor Arcana/Cups/Seven of Cups.md",
+        "The Instruments/The Tarot/Minor Arcana/Cups/Six of Cups.md",
+        "The Instruments/The Tarot/Minor Arcana/Cups/Ten of Cups.md",
+        "The Instruments/The Tarot/Minor Arcana/Cups/Three of Cups.md",
+        "The Instruments/The Tarot/Minor Arcana/Cups/Two of Cups.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Tarot/Minor Arcana/Pentacles": {
+      "children": [
+        "The Instruments/The Tarot/Minor Arcana/Pentacles/Ace of Pentacles.md",
+        "The Instruments/The Tarot/Minor Arcana/Pentacles/Eight of Pentacles.md",
+        "The Instruments/The Tarot/Minor Arcana/Pentacles/Five of Pentacles.md",
+        "The Instruments/The Tarot/Minor Arcana/Pentacles/Four of Pentacles.md",
+        "The Instruments/The Tarot/Minor Arcana/Pentacles/King of Pentacles.md",
+        "The Instruments/The Tarot/Minor Arcana/Pentacles/Knight of Pentacles.md",
+        "The Instruments/The Tarot/Minor Arcana/Pentacles/Nine of Pentacles.md",
+        "The Instruments/The Tarot/Minor Arcana/Pentacles/Page of Pentacles.md",
+        "The Instruments/The Tarot/Minor Arcana/Pentacles/Queen of Pentacles.md",
+        "The Instruments/The Tarot/Minor Arcana/Pentacles/Seven of Pentacles.md",
+        "The Instruments/The Tarot/Minor Arcana/Pentacles/Six of Pentacles.md",
+        "The Instruments/The Tarot/Minor Arcana/Pentacles/Ten of Pentacles.md",
+        "The Instruments/The Tarot/Minor Arcana/Pentacles/Three of Pentacles.md",
+        "The Instruments/The Tarot/Minor Arcana/Pentacles/Two of Pentacles.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Tarot/Minor Arcana/Swords": {
+      "children": [
+        "The Instruments/The Tarot/Minor Arcana/Swords/Ace of Swords.md",
+        "The Instruments/The Tarot/Minor Arcana/Swords/Eight of Swords.md",
+        "The Instruments/The Tarot/Minor Arcana/Swords/Five of Swords.md",
+        "The Instruments/The Tarot/Minor Arcana/Swords/Four of Swords.md",
+        "The Instruments/The Tarot/Minor Arcana/Swords/King of Swords.md",
+        "The Instruments/The Tarot/Minor Arcana/Swords/Knight of Swords.md",
+        "The Instruments/The Tarot/Minor Arcana/Swords/Nine of Swords.md",
+        "The Instruments/The Tarot/Minor Arcana/Swords/Page of Swords.md",
+        "The Instruments/The Tarot/Minor Arcana/Swords/Queen of Swords.md",
+        "The Instruments/The Tarot/Minor Arcana/Swords/Seven of Swords.md",
+        "The Instruments/The Tarot/Minor Arcana/Swords/Six of Swords.md",
+        "The Instruments/The Tarot/Minor Arcana/Swords/Ten of Swords.md",
+        "The Instruments/The Tarot/Minor Arcana/Swords/Three of Swords.md",
+        "The Instruments/The Tarot/Minor Arcana/Swords/Two of Swords.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Tarot/Minor Arcana/Wands": {
+      "children": [
+        "The Instruments/The Tarot/Minor Arcana/Wands/Ace of Wands.md",
+        "The Instruments/The Tarot/Minor Arcana/Wands/Eight of Wands.md",
+        "The Instruments/The Tarot/Minor Arcana/Wands/Five of Wands.md",
+        "The Instruments/The Tarot/Minor Arcana/Wands/Four of Wands.md",
+        "The Instruments/The Tarot/Minor Arcana/Wands/King of Wands.md",
+        "The Instruments/The Tarot/Minor Arcana/Wands/Knight of Wands.md",
+        "The Instruments/The Tarot/Minor Arcana/Wands/Nine of Wands.md",
+        "The Instruments/The Tarot/Minor Arcana/Wands/Page of Wands.md",
+        "The Instruments/The Tarot/Minor Arcana/Wands/Queen of Wands.md",
+        "The Instruments/The Tarot/Minor Arcana/Wands/Seven of Wands.md",
+        "The Instruments/The Tarot/Minor Arcana/Wands/Six of Wands.md",
+        "The Instruments/The Tarot/Minor Arcana/Wands/Ten of Wands.md",
+        "The Instruments/The Tarot/Minor Arcana/Wands/Three of Wands.md",
+        "The Instruments/The Tarot/Minor Arcana/Wands/Two of Wands.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Tarot/Qabalah": {
+      "children": [
+        "The Instruments/The Tarot/Qabalah/Divine Names",
+        "The Instruments/The Tarot/Qabalah/Overview",
+        "The Instruments/The Tarot/Qabalah/Paths",
+        "The Instruments/The Tarot/Qabalah/Pillars and Structures",
+        "The Instruments/The Tarot/Qabalah/Sephiroth",
+        "The Instruments/The Tarot/Qabalah/Shadow System",
+        "The Instruments/The Tarot/Qabalah/Specialized Concepts",
+        "The Instruments/The Tarot/Qabalah/Qabalah.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Tarot/Qabalah/Divine Names": {
+      "children": [
+        "The Instruments/The Tarot/Qabalah/Divine Names/Adonai ha-Aretz.md",
+        "The Instruments/The Tarot/Qabalah/Divine Names/Eheieh.md",
+        "The Instruments/The Tarot/Qabalah/Divine Names/Elohim Tzabaoth.md",
+        "The Instruments/The Tarot/Qabalah/Divine Names/Shaddai El Chai.md",
+        "The Instruments/The Tarot/Qabalah/Divine Names/YHVH Eloah va-Daath.md",
+        "The Instruments/The Tarot/Qabalah/Divine Names/YHVH Tzabaoth.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Tarot/Qabalah/Overview": {
+      "children": [
+        "The Instruments/The Tarot/Qabalah/Overview/Divine Names.md",
+        "The Instruments/The Tarot/Qabalah/Overview/Four Worlds.md",
+        "The Instruments/The Tarot/Qabalah/Overview/Minor Arcana and the Sephiroth.md",
+        "The Instruments/The Tarot/Qabalah/Overview/Sephiroth.md",
+        "The Instruments/The Tarot/Qabalah/Overview/The Tree of Life.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Tarot/Qabalah/Paths": {
+      "children": [
+        "The Instruments/The Tarot/Qabalah/Paths/Path 25.md",
+        "The Instruments/The Tarot/Qabalah/Paths/The Twenty-Two Paths - Hebrew Letters and Major Arcana.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Tarot/Qabalah/Pillars and Structures": {
+      "children": [
+        "The Instruments/The Tarot/Qabalah/Pillars and Structures/Daath.md",
+        "The Instruments/The Tarot/Qabalah/Pillars and Structures/Middle Pillar.md",
+        "The Instruments/The Tarot/Qabalah/Pillars and Structures/Pillar of Mercy.md",
+        "The Instruments/The Tarot/Qabalah/Pillars and Structures/Pillar of Severity.md",
+        "The Instruments/The Tarot/Qabalah/Pillars and Structures/Supernal Triangle.md",
+        "The Instruments/The Tarot/Qabalah/Pillars and Structures/The Abyss.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Tarot/Qabalah/Sephiroth": {
+      "children": [
+        "The Instruments/The Tarot/Qabalah/Sephiroth/Binah.md",
+        "The Instruments/The Tarot/Qabalah/Sephiroth/Chesed.md",
+        "The Instruments/The Tarot/Qabalah/Sephiroth/Chokmah.md",
+        "The Instruments/The Tarot/Qabalah/Sephiroth/Da'at.md",
+        "The Instruments/The Tarot/Qabalah/Sephiroth/Geburah.md",
+        "The Instruments/The Tarot/Qabalah/Sephiroth/Hod.md",
+        "The Instruments/The Tarot/Qabalah/Sephiroth/Kether.md",
+        "The Instruments/The Tarot/Qabalah/Sephiroth/Malkuth.md",
+        "The Instruments/The Tarot/Qabalah/Sephiroth/Netzach.md",
+        "The Instruments/The Tarot/Qabalah/Sephiroth/Tiphareth.md",
+        "The Instruments/The Tarot/Qabalah/Sephiroth/Yesod.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Tarot/Qabalah/Shadow System": {
+      "children": [
+        "The Instruments/The Tarot/Qabalah/Shadow System/Golachab.md",
+        "The Instruments/The Tarot/Qabalah/Shadow System/Qlippoth.md",
+        "The Instruments/The Tarot/Qabalah/Shadow System/Thaumiel.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "The Instruments/The Tarot/Qabalah/Specialized Concepts": {
+      "children": [
+        "The Instruments/The Tarot/Qabalah/Specialized Concepts/Ain Soph Aur.md",
+        "The Instruments/The Tarot/Qabalah/Specialized Concepts/Merkabah Mysticism.md",
+        "The Instruments/The Tarot/Qabalah/Specialized Concepts/Shekinah.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}

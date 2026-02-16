@@ -1,0 +1,45 @@
+/* Synthwave Headings - Muted Palette for Easy Reading */
+/* Place this file in: YourVault/.obsidian/snippets/ */
+
+/* H1 - Soft Cyan */
+.markdown-preview-view h1,
+.cm-header-1 {
+  color: #6DD5ED !important;
+  font-weight: 700;
+}
+
+/* H2 - Warm Magenta */
+.markdown-preview-view h2,
+.cm-header-2 {
+  color: #FF38B3 !important;
+  font-weight: 600;
+}
+
+/* H3 - Peachy Gold */
+.markdown-preview-view h3,
+.cm-header-3 {
+  color: #FFB86C !important;
+  font-weight: 600;
+}
+
+/* H4 - Soft Pink */
+.markdown-preview-view h4,
+.cm-header-4 {
+  color: #F48FB1 !important;
+  font-weight: 500;
+}
+
+/* H5 - Muted Teal */
+.markdown-preview-view h5,
+.cm-header-5 {
+  color: #80CBC4 !important;
+  font-weight: 500;
+}
+
+/* H6 - Peach */
+.markdown-preview-view h6,
+.cm-header-6 {
+  color: #FFAB91 !important;
+  font-weight: 500;
+}
+

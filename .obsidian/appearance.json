@@ -1,0 +1,8 @@
+{
+  "interfaceFontFamily": "Cabin",
+  "textFontFamily": "Cabin",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "synthwave-headings"
+  ]
+}
