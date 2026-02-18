@@ -9,7 +9,7 @@ archetype: The Exiled First Wife, The Dark Feminine, The Autonomous Woman Who Re
 aliases: [Lilitu, Lilit, the Night Hag, the Screech Owl, Adam's First Wife]
 verified: true
 verification_date: 2026-02-07
-verification_source: "NotebookLM Esoteric Grimoire (Jewish mysticism, Mesopotamian mythology sources)"
+verification_source: "The Athenaeum (Jewish mysticism, Mesopotamian mythology sources)"
 grimoire_source: "Alphabet of Ben Sira, Babylonian Talmud, Zohar, Sumerian King List/Gilgamesh Prologue, Isaiah 34:14"
 source_verified: true
 verification_date: 2026-02-07

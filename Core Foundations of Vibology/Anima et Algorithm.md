@@ -70,7 +70,7 @@ In Vibology, the Algorithm manifests as:
 
 2. **The 444 Blueprint** ([[The Blueprint - 444 Architecture]]): The recognition that multiple systems share a **64-fold substrate**—DNA codons, Human Design gates, I-Ching hexagrams, Gene Keys—all operating on the same 4×4×4 structural foundation.
 
-3. **AI-Accelerated Synthesis**: Using large language models (LLMs) and retrieval-augmented generation (RAG) via NotebookLM to query, cross-reference, and synthesize esoteric texts at speeds impossible for unaided human cognition.
+3. **AI-Accelerated Synthesis**: Using large language models (LLMs) and direct search of locally stored primary sources in The Athenaeum to query, cross-reference, and synthesize esoteric texts at speeds impossible for unaided human cognition.
 
 4. **Obsidian Vault Architecture**: Organizing 750+ markdown files across five instruments with extensive wikilink cross-referencing, creating a **navigable knowledge graph** where every concept connects to every other.
 
@@ -221,8 +221,8 @@ Large language models (Claude, GPT, Gemini) process and synthesize esoteric text
 - Generating comprehensive syntheses (Gate 51 + Aries 19° + The Tower + Shock hexagram + Michael + Seraphim + Head Center)
 - Maintaining perfect consistency across extensive knowledge graphs
 
-**NotebookLM** functions as a **retrieval-augmented generation (RAG) system**, allowing queries like:
-- *"Extract all Enochian material from my grimoire"* (returning 5,450 lines of structured content)
+**The Athenaeum** functions as a **local primary source library**, enabling searches like:
+- *"Extract all Enochian material from the grimoire"* (targeted grep/glob across source texts)
 - *"What are the Jungian correspondences to the Major Arcana?"* (cross-system synthesis)
 - *"How does emotional authority function in Human Design?"* (specific mechanics)
 

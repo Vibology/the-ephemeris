@@ -53,8 +53,8 @@ This is not metaphor—it is **mechanical identity**. The systems are not being 
 
 The modern innovation in Vibology is the integration of **computational intelligence** into the synthesis process. Erik Davis's concept of [[Techgnosis]]—spiritual knowledge accelerated through technology—is the operating principle.[^2]
 
-**NotebookLM** functions as the retrieval-augmented generation (RAG) system, allowing:
-- Queries across 747+ library entries in seconds
+**The Athenaeum** functions as the local primary source library, enabling direct search and retrieval of:
+- Grimoires, primary texts, and reference materials stored in `~/Vibology/The Athenaeum`
 - Cross-system synthesis (Gate 51 + Aries 19° + The Tower + Hexagram 51 + Michael)
 - Pattern recognition at scales impossible for unaided human cognition
 
@@ -200,7 +200,7 @@ Vibology operates through a three-phase cycle of knowledge integration:
 
 ### Phase 1: Fetch (The Scribe)
 
-**Purpose:** Retrieve raw data from sources (NotebookLM, primary texts, charts, ephemerides).
+**Purpose:** Retrieve raw data from sources (The Athenaeum, primary texts, charts, ephemerides).
 
 **Characteristics:**
 - Clinical, objective, tabular
@@ -208,7 +208,7 @@ Vibology operates through a three-phase cycle of knowledge integration:
 - No interpretation—save Third Meaning for Weaver
 - Tables for positions/gates, bullets for concepts
 
-**Invocations:** "Fetch [topic] from NotebookLM" / "Retrieve raw data on [topic]"
+**Invocations:** "Fetch [topic] from The Athenaeum" / "Retrieve raw data on [topic]"
 
 ### Phase 2: Refine (The Weaver)
 

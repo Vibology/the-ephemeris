@@ -20,7 +20,7 @@ category: Technological Integration
 
 In Vibology, Techgnosis is not metaphor—it is **operational reality**. We use:
 - **Large Language Models (LLMs)** to synthesize esoteric texts across five instruments
-- **Retrieval-Augmented Generation (RAG)** via NotebookLM to query grimoires and source texts
+- **Direct local search** of The Athenaeum for grimoires and source texts
 - **Obsidian vault architecture** to create navigable knowledge graphs with 428+ interconnected entries
 - **Git version control** to track the evolution of understanding across time
 - **Python scripts** to calculate astrological transits and Human Design charts with precision
@@ -121,7 +121,7 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 **What:** Using Large Language Models to synthesize across systems at speeds impossible for unaided cognition.
 
 #### Examples
-- **NotebookLM (Gemini RAG):** Query grimoires with natural language—*"Extract all Enochian material"* returns 5,450 lines of structured content in seconds
+- **The Athenaeum (Local Library):** Search grimoires and source texts with grep/glob—*"Extract all Enochian material"* returns structured content in seconds
 - **Claude Code:** Cross-reference 428 library entries to find patterns—*"How does Gate 51 relate to The Tower, Aries 19°, and Shock hexagram?"*
 - **GPT/Claude synthesis:** Generate comprehensive overviews integrating multiple sources—Tarot.md expanded from 40 to 692 lines via AI synthesis
 
@@ -149,24 +149,24 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 
 > *Vibology Synthesis: The following technology stack represents the operational infrastructure of Vibology.*
 
-### 1. NotebookLM (Retrieval-Augmented Generation)
+### 1. The Athenaeum (Local Primary Source Library)
 
-**Function:** Source-grounded AI queries of personal grimoires and reference libraries.
+**Function:** Locally stored primary source texts, grimoires, and reference materials enabling direct search and retrieval.
 
 #### How It Works
-- Upload PDFs, documents, or source texts to NotebookLM
-- Ask natural language questions
-- Gemini (Google's LLM) retrieves relevant passages and synthesizes answers **grounded only in uploaded sources**
-- Citations provided for every claim
+- Source texts stored locally in `~/Vibology/The Athenaeum`
+- Searched directly via grep/glob for precise content retrieval
+- Claude Code reads and synthesizes content **grounded only in local sources**
+- All retrieved material traces to stored primary texts
 
 **Use in Vibology:**
-- Querying "Esoteric Grimoire" for comprehensive material on specific topics
+- Searching "Esoteric Grimoire" for comprehensive material on specific topics
 - Extracting structured data (e.g., all 48 Enochian Keys, all 30 Aethyrs)
 - Cross-referencing traditional texts without hallucination
 
-**Advantage:** **Source fidelity**. Unlike general-purpose LLMs, RAG systems only answer from documents you've provided—no confabulation.
+**Advantage:** **Source fidelity and autonomy**. All sources stored locally—no external dependency, no cloud, complete control over the library.
 
-**Limitation:** **Passive retrieval**. NotebookLM doesn't *create* synthesis; it retrieves and summarizes. Creative synthesis still requires human (or general LLM) intelligence.
+**Limitation:** **Passive retrieval**. Local search doesn't *create* synthesis; it retrieves raw material. Creative synthesis still requires human (or general LLM) intelligence.
 
 ### 2. Claude Code (AI Programming Assistant)
 
@@ -343,7 +343,7 @@ If it feels **intellectually interesting but hollow** → More integration neede
 
 **Manual Process:** Reading 20 books on the Tower, cross-referencing Tarot with Qabalah, looking up Mars correspondences, finding I-Ching hexagram 51—**weeks of work**.
 
-**Techgnosis:** NotebookLM query + Claude synthesis + Obsidian search—**minutes of work**.
+**Techgnosis:** Athenaeum search + Claude synthesis + Obsidian search—**minutes of work**.
 
 The speed allows **iterative refinement**—you can generate a synthesis, test it, refine, regenerate multiple times in the time it would take to do one manual pass.
 
@@ -425,7 +425,7 @@ This is **augmented intelligence**—not replacement, but amplification.
 
 **The Danger:** Treating every mystery as a **puzzle to be solved** algorithmically.
 
-**Example:** You query NotebookLM for "the meaning of the Divine" and expect a definitive answer. You forget that some truths **cannot be computed**—they must be experienced directly.
+**Example:** You search The Athenaeum for "the meaning of the Divine" and expect a definitive answer. You forget that some truths **cannot be computed**—they must be experienced directly.
 
 **Antidote:** Recognize the **limits of Techgnosis**. AI can accelerate gnosis of *structure and pattern*, but it cannot replace **direct mystical experience**. The Algorithm maps the territory; the Anima **walks** it. At a certain point, **put down the map** and stand in unknowing.
 
@@ -553,7 +553,7 @@ The answer is yes—**if used wisely**.
 - **I-Ching:** Digital oracles vs. yarrow stalk/coin methods
 
 ### Technological Tools
-- **NotebookLM:** RAG-based grimoire queries
+- **The Athenaeum:** Local grimoire and source text storage
 - **Claude Code:** Multi-file synthesis and codebase exploration
 - **Obsidian:** Knowledge graph with bidirectional linking
 - **Git:** Version control for consciousness evolution

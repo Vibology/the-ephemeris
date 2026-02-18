@@ -2,7 +2,7 @@
 tags: [human-design, gates, g-center, integration, centering-circuit, behavior, self-love, interaction]
 system: Human Design
 date_created: 2026-01-16
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 source_verified: true
 verified: true
 verification_date: 2026-01-25

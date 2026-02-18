@@ -12,7 +12,7 @@ theme: Vocation, Public Authority, Reputation, The MC
 source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Traditional house significations (honour, magistrates, profession, mother), angular classification (Medium Coeli), Capricorn correspondence, and Mars cosignificator verified via NotebookLM query against Lilly. No planetary joy for 10th House. Inline citations added. Synthesis sections clearly distinguished."
+verification_notes: "Traditional house significations (honour, magistrates, profession, mother), angular classification (Medium Coeli), Capricorn correspondence, and Mars cosignificator verified against Lilly. No planetary joy for 10th House. Inline citations added. Synthesis sections clearly distinguished."
 ---
 
 # 10th House

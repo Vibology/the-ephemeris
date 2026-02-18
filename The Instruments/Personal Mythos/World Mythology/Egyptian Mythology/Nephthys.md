@@ -10,7 +10,7 @@ archetype: The Dark Sister, The Invisible Feminine, The Mourner, The Guardian of
 aliases: [Nebt-Het, Nebthet, Lady of the House]
 verified: true
 verification_date: 2026-02-07
-verification_source: "NotebookLM Esoteric Grimoire (Egyptian mythology sources)"
+verification_source: "The Athenaeum (Egyptian mythology sources)"
 grimoire_source: "Pyramid Texts, Coffin Texts, Book of the Dead, Plutarch"
 source_verified: true
 verification_date: 2026-02-07

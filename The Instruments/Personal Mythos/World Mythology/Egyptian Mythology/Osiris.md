@@ -10,7 +10,7 @@ archetype: The Dying and Rising God, The Dismembered King, The Lord of the Dead,
 aliases: [Wesir, Asar, Un-Nefer, Khenti-Amentiu, Neb-er-tcher]
 verified: true
 verification_date: 2026-02-07
-verification_source: "NotebookLM Esoteric Grimoire (Egyptian mythology sources)"
+verification_source: "The Athenaeum (Egyptian mythology sources)"
 grimoire_source: "Pyramid Texts, Coffin Texts, Book of the Dead, Plutarch's Isis and Osiris"
 source_verified: true
 verification_date: 2026-02-07

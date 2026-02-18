@@ -11,7 +11,7 @@ archetype: Queen of Heaven and Earth, Goddess of Love and War, The Integrated An
 aliases: [Ishtar, Inana, Queen of Heaven, Lady of Battles, Morning Star, Evening Star]
 verified: true
 verification_date: 2026-02-06
-verification_source: "NotebookLM Esoteric Grimoire"
+verification_source: "The Athenaeum"
 grimoire_source: "Sumerian hymns and myths, Wolkstein/Kramer translation, Sylvia Perera Jungian analysis"
 source_verified: true
 verification_date: 2026-02-07

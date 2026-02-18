@@ -9,7 +9,7 @@ gates: [15, 10, 17, 18]
 quarter: Civilization
 quarter_realm: Dubhe
 theme: Purpose fulfilled through Form
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 tier: 2
 source_verified: true
 verified: true

@@ -9,7 +9,7 @@ gates: [44, 24, 33, 19]
 quarter: Duality
 quarter_realm: Sirius
 theme: Purpose fulfilled through Bonding
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 tier: 2
 source_verified: true
 verified: true

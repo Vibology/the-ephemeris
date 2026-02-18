@@ -12,7 +12,7 @@ aliases: [Diana Nemorensis, Diana Trivia, Diana Lucina, Djana, Jana]
 verified: true
 verification_date: 2026-02-06
 source_verified: true
-verification_source: "NotebookLM Esoteric Grimoire (Frazer Golden Bough, Guirand New Larousse Encyclopedia of Mythology, Agrippa Occult Philosophy)"
+verification_source: "The Athenaeum (Frazer Golden Bough, Guirand New Larousse Encyclopedia of Mythology, Agrippa Occult Philosophy)"
 ---
 
 # Diana

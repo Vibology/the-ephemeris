@@ -12,7 +12,7 @@ aliases: [Sol Invictus, Helios]
 verified: true
 verification_date: 2026-02-06
 source_verified: true
-verification_source: "NotebookLM Esoteric Grimoire (Guirand New Larousse Encyclopedia of Mythology, Frazer Golden Bough, Jung Mysterium Coniunctionis, Agrippa Occult Philosophy)"
+verification_source: "The Athenaeum (Guirand New Larousse Encyclopedia of Mythology, Frazer Golden Bough, Jung Mysterium Coniunctionis, Agrippa Occult Philosophy)"
 ---
 
 # Sol

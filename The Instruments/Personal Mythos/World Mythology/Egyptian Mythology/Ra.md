@@ -10,7 +10,7 @@ archetype: The Solar King, Creator God, Eye of Heaven, Divine Father
 aliases: [Re, Ra-Horakhty, Atum-Ra, Amun-Ra, Khepri, The Great Cackler]
 verified: true
 verification_date: 2026-02-06
-verification_source: "NotebookLM Esoteric Grimoire"
+verification_source: "The Athenaeum"
 grimoire_source: "Egyptian solar theology, Heliopolitan cosmogony, Book of the Dead, Jungian solar consciousness"
 source_verified: true
 verification_date: 2026-02-07

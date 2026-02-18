@@ -12,7 +12,7 @@ theme: Dissolution, Hidden Enemies, Self-Undoing, The Unconscious
 source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Traditional house significations (private enemies, imprisonment, self-undoing, great cattle), cadent classification, Pisces correspondence, and Saturn's joy verified via NotebookLM query against Lilly. Inline citations added. Synthesis sections clearly distinguished."
+verification_notes: "Traditional house significations (private enemies, imprisonment, self-undoing, great cattle), cadent classification, Pisces correspondence, and Saturn's joy verified against Lilly. Inline citations added. Synthesis sections clearly distinguished."
 ---
 
 # 12th House

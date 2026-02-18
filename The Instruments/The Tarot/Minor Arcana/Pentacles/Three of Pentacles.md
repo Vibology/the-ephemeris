@@ -3,7 +3,7 @@ tags: [tarot, minor-arcana, pentacles, earth, binah, mars, capricorn, mastery, c
 system: Tarot
 date_created: 2026-01-09
 date_updated: 2026-01-25
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 verified: true
 source_verified: true
 verification_date: 2026-01-25

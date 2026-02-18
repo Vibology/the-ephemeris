@@ -10,7 +10,7 @@ quarter: Civilization
 quarter_realm: Dubhe
 theme: Purpose fulfilled through Form
 profile: 4/1
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 tier: 2
 source_verified: true
 verified: true

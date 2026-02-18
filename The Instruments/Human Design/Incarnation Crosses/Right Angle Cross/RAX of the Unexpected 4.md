@@ -9,7 +9,7 @@ gates: [41, 31, 28, 27]
 quarter: Mutation
 quarter_realm: Pluto
 theme: Purpose fulfilled through Transformation
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 tier: 2
 source_verified: true
 verified: true

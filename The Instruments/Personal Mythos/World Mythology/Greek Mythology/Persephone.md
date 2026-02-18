@@ -11,7 +11,7 @@ archetype: The Maiden-Queen, Kore-to-Queen Transformation, Death-Rebirth Goddess
 aliases: [Kore, The Maiden, Queen of the Underworld, Bringer of Spring]
 verified: true
 verification_date: 2026-02-06
-verification_source: "NotebookLM Esoteric Grimoire"
+verification_source: "The Athenaeum"
 grimoire_source: "Homeric Hymn to Demeter, Eleusinian Mystery tradition, Jungian mother-daughter archetype"
 source_verified: true
 verification_date: 2026-02-07

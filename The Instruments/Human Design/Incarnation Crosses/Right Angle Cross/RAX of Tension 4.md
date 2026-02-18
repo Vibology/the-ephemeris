@@ -9,7 +9,7 @@ gates: [38, 39, 48, 21]
 quarter: Mutation
 quarter_realm: Uriel
 theme: Purpose fulfilled through Transformation
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 tier: 2
 source_verified: true
 verified: true

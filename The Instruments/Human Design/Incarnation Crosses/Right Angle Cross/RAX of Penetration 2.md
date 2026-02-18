@@ -9,7 +9,7 @@ gates: [53, 54, 51, 57]
 quarter: Civilization
 quarter_realm: Jupiter
 theme: Purpose fulfilled through Form
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 tier: 2
 source_verified: true
 verified: true

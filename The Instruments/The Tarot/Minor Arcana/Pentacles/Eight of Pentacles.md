@@ -3,7 +3,7 @@ tags: [tarot, minor-arcana, pentacles, earth, hod, sun, virgo, mastery, craftsma
 system: Tarot
 date_created: 2026-01-09
 date_updated: 2026-01-25
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 verified: true
 source_verified: true
 verification_date: 2026-01-25

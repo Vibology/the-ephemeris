@@ -12,7 +12,7 @@ aliases: [Artemis Potnia Theron, Artemis Agrotera, Artemis Locheia, Diana]
 verified: true
 verification_date: 2026-02-06
 source_verified: true
-verification_source: "NotebookLM Esoteric Grimoire (Classical mythology sources)"
+verification_source: "The Athenaeum (Classical mythology sources)"
 ---
 
 # Artemis

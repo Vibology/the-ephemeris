@@ -2,7 +2,7 @@
 tags: [human-design, gates, head-center, pressure, individual, knowing-circuit, inspiration, mystery, inner-truth]
 system: Human Design
 date_created: 2026-01-16
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 source_verified: true
 verified: true
 verification_date: 2026-01-25

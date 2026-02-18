@@ -3,7 +3,7 @@ tags: [human-design, incarnation-cross, overview, life-purpose, quarters]
 system: Human Design
 date_created: 2026-01-20
 category: Overview
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 source_verified: true
 verified: true
 verification_date: 2026-01-25

@@ -9,7 +9,7 @@ gates: [40, 37, 16, 9]
 quarter: Duality
 quarter_realm: Kali
 theme: Purpose fulfilled through Bonding
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 tier: 2
 source_verified: true
 verified: true

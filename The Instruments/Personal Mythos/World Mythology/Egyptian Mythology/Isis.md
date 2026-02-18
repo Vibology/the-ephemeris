@@ -11,7 +11,7 @@ archetype: The Great Mother, The Magician, The Throne
 aliases: [Aset, Auset, Uert-Hekeu, Myriad-Named]
 verified: true
 verification_date: 2026-02-06
-verification_source: "NotebookLM Esoteric Grimoire"
+verification_source: "The Athenaeum"
 grimoire_source: "Egyptian Mythology sources, Plutarch, Apuleius, Jungian archetypal analysis"
 source_verified: true
 verification_date: 2026-02-07

@@ -9,7 +9,7 @@ gates: [29, 30, 20, 34]
 quarter: Duality
 quarter_realm: Jupiter
 theme: Purpose fulfilled through Bonding
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 tier: 2
 source_verified: true
 verified: true

@@ -12,7 +12,7 @@ theme: Death, Transformation, Shared Resources
 source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Traditional house significations (death, legacies, shared resources), succedent classification, Scorpio correspondence, and Saturn cosignificator verified via NotebookLM query against Lilly. No planetary joy for 8th House. Inline citations added. Synthesis sections clearly distinguished."
+verification_notes: "Traditional house significations (death, legacies, shared resources), succedent classification, Scorpio correspondence, and Saturn cosignificator verified against Lilly. No planetary joy for 8th House. Inline citations added. Synthesis sections clearly distinguished."
 ---
 
 # 8th House

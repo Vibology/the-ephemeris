@@ -12,7 +12,7 @@ theme: Philosophy, Higher Learning, Long Journeys
 source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Traditional house significations (long journeys, religion, learning, clergy), cadent classification, Sagittarius correspondence, and Sun's joy verified via NotebookLM query against Lilly. Inline citations added. Synthesis sections clearly distinguished."
+verification_notes: "Traditional house significations (long journeys, religion, learning, clergy), cadent classification, Sagittarius correspondence, and Sun's joy verified against Lilly. Inline citations added. Synthesis sections clearly distinguished."
 ---
 
 # 9th House

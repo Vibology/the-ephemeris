@@ -9,7 +9,7 @@ gates: [39, 38, 21, 48]
 quarter: Civilization
 quarter_realm: Hades
 theme: Purpose fulfilled through Form
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 tier: 2
 source_verified: true
 verified: true

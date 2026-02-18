@@ -10,7 +10,7 @@ archetype: The Divine Child, The Avenging Son, The Solar Heir, The Hawk-Eyed Kin
 aliases: [Heru, Hor, Horus the Elder (Haroeris), Horus the Child (Harpocrates), Horus of Edfu (Behdety)]
 verified: true
 verification_date: 2026-02-07
-verification_source: "NotebookLM Esoteric Grimoire (Egyptian mythology sources)"
+verification_source: "The Athenaeum (Egyptian mythology sources)"
 grimoire_source: "Pyramid Texts, Coffin Texts, Plutarch, temple inscriptions at Edfu"
 source_verified: true
 verification_date: 2026-02-07

@@ -10,7 +10,7 @@ archetype: The Fire-Bringer, The Rebel, Friend of Humanity, Suffering Creator, C
 aliases: [Forethought, The Titan, Benefactor of Mankind]
 verified: true
 verification_date: 2026-02-06
-verification_source: "NotebookLM Esoteric Grimoire"
+verification_source: "The Athenaeum"
 grimoire_source: "Hesiod Theogony and Works and Days, Aeschylus Prometheus Bound, Jungian consciousness analysis"
 source_verified: true
 verification_date: 2026-02-07

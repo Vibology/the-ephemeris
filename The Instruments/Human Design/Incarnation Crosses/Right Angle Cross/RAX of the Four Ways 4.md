@@ -9,7 +9,7 @@ gates: [19, 33, 44, 24]
 quarter: Mutation
 quarter_realm: Kali
 theme: Purpose fulfilled through Transformation
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 tier: 2
 source_verified: true
 verified: true

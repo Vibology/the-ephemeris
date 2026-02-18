@@ -11,7 +11,7 @@ archetype: The Divine Scribe, Lord of Sacred Knowledge, The Logos, Psychopomp
 aliases: [Djehuty, Tehuti, Hermes Trismegistus, Thrice-Greatest]
 verified: true
 verification_date: 2026-02-06
-verification_source: "NotebookLM Esoteric Grimoire"
+verification_source: "The Athenaeum"
 grimoire_source: "Egyptian theology, Hermetic tradition, Corpus Hermeticum, Jungian mediator function"
 source_verified: true
 verification_date: 2026-02-07

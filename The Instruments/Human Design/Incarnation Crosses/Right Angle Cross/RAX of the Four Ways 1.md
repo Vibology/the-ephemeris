@@ -9,7 +9,7 @@ gates: [24, 44, 19, 33]
 quarter: Initiation
 quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 tier: 2
 source_verified: true
 verified: true

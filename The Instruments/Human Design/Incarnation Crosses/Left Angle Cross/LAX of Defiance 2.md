@@ -9,7 +9,7 @@ gates: [1, 2, 4, 49]
 quarter: Mutation
 quarter_realm: Sirius
 theme: Purpose fulfilled through Transformation
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 tier: 2
 source_verified: true
 verified: true

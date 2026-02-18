@@ -9,7 +9,7 @@ gates: [26, 45, 47, 22]
 quarter: Mutation
 quarter_realm: Hades
 theme: Purpose fulfilled through Transformation
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 tier: 2
 source_verified: true
 verified: true

@@ -9,7 +9,7 @@ gates: [15, 10, 25, 46]
 quarter: Civilization
 quarter_realm: Maya
 theme: Purpose fulfilled through Form
-source: NotebookLM Esoteric Grimoire
+source: The Athenaeum
 tier: 2
 source_verified: true
 verified: true
